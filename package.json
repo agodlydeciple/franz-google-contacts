@@ -1,14 +1,14 @@
 {
-    "id": "",
-    "name": "",
+    "id": "google-contacts",
+    "name": "Google Contacts Manager",
     "version": "1.0.0",
-    "description": "",
+    "description": "Google Contacts Manager",
     "main": "index.js",
-    "author": "",
+    "author": "Don Oerkfitz <don@oerkfitz.com>",
     "license": "MIT",
-    "repository": "",
+    "repository": "https://github.com/agodlydeciple/franz-google-contacts",
     "config": {
-        "serviceURL": "",
+        "serviceURL": "https://contacts.google.com",
         "hasNotificationSound": false,
         "hasTeamID": false
     }
